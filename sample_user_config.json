@@ -4,6 +4,10 @@
         "vid": "0x46f4",
         "sn": "1234XXX123",
         "mac1": "XXYYXXYYXXYY"
+        "mac2": "001132978D9C"
+        "netif_num": 2
+        "DiskIdxMap": "0600"
+        "SataPortMap": "66"
     },
     "synoinfo": {},
     "ramdisk_copy": {},
